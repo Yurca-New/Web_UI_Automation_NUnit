@@ -1,0 +1,14 @@
+Task 4: Comparing the 2 runners
+
+Here is what I found when doing the task:
+Setup/Tear down. NUnit is very simple, I just used [SetUp] and [TearDown] tags. xUnit was kinda weird at first, I had to use the class constructor to open the browser and IDisposable (Dispose method) to close it.
+
+Data provider. NUnit is super easy, I just slapped [TestCase("data1", "data2")] on top of the test. In xUnit I had to change [Fact] to [Theory] and add [InlineData("data1", "data2")].
+
+Category. NUnit uses [Category("Name")] and xUnit uses [Trait("Category", "Name")].
+
+Parallel tests. For NUnit I added [assembly: Parallelizable], but the browsers started crashing into each other. Had to google it and wrap my IWebDriver in ThreadLocal to fix the mess. xUnit works much better out of the box. It automatically creates a new class instance for every test, so browsers don't conflict at all.
+
+Task 5: My decision
+
+I'll go with xUnit. NUnit has nice and readable Asserts, but xUnit is just way better for parallel UI tests. In NUnit, I had to write that ugly ThreadLocal workaround so tests wouldn't break. xUnit handles this naturally because every test gets a fresh class object. It just feels less hacky and more modern to me.

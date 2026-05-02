@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yurca\\Downloads\\LabC#2\\Lab2\\Web_UI_Automation_NUnit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCA409F-A12D-4514-BF7A-D61CEA9BD1C4}|Web_UI_Automation_xUnit\\Web_UI_Automation_xUnit.csproj|c:\\users\\yurca\\downloads\\labc#2\\lab2\\web_ui_automation_nunit\\web_ui_automation_xunit\\features\\ehunavigationandsearch.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FBCA409F-A12D-4514-BF7A-D61CEA9BD1C4}|Web_UI_Automation_xUnit\\Web_UI_Automation_xUnit.csproj|solutionrelative:web_ui_automation_xunit\\features\\ehunavigationandsearch.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCA409F-A12D-4514-BF7A-D61CEA9BD1C4}|Web_UI_Automation_xUnit\\Web_UI_Automation_xUnit.csproj|c:\\users\\yurca\\downloads\\labc#2\\lab2\\web_ui_automation_nunit\\web_ui_automation_xunit\\stepdefinitions\\ehusteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCA409F-A12D-4514-BF7A-D61CEA9BD1C4}|Web_UI_Automation_xUnit\\Web_UI_Automation_xUnit.csproj|solutionrelative:web_ui_automation_xunit\\stepdefinitions\\ehusteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCA409F-A12D-4514-BF7A-D61CEA9BD1C4}|Web_UI_Automation_xUnit\\Web_UI_Automation_xUnit.csproj|c:\\users\\yurca\\downloads\\labc#2\\lab2\\web_ui_automation_nunit\\web_ui_automation_xunit\\hooks\\testhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCA409F-A12D-4514-BF7A-D61CEA9BD1C4}|Web_UI_Automation_xUnit\\Web_UI_Automation_xUnit.csproj|solutionrelative:web_ui_automation_xunit\\hooks\\testhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCA409F-A12D-4514-BF7A-D61CEA9BD1C4}|Web_UI_Automation_xUnit\\Web_UI_Automation_xUnit.csproj|c:\\users\\yurca\\downloads\\labc#2\\lab2\\web_ui_automation_nunit\\web_ui_automation_xunit\\web_ui_automation_xunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FBCA409F-A12D-4514-BF7A-D61CEA9BD1C4}|Web_UI_Automation_xUnit\\Web_UI_Automation_xUnit.csproj|solutionrelative:web_ui_automation_xunit\\web_ui_automation_xunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C24DD6-FB6C-43B8-BB76-A34ECB6EA062}|Web_UI_Automation_NUnit\\Web_UI_Automation_NUnit.csproj|c:\\users\\yurca\\downloads\\labc#2\\lab2\\web_ui_automation_nunit\\web_ui_automation_nunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C24DD6-FB6C-43B8-BB76-A34ECB6EA062}|Web_UI_Automation_NUnit\\Web_UI_Automation_NUnit.csproj|solutionrelative:web_ui_automation_nunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCA409F-A12D-4514-BF7A-D61CEA9BD1C4}|Web_UI_Automation_xUnit\\Web_UI_Automation_xUnit.csproj|c:\\users\\yurca\\downloads\\labc#2\\lab2\\web_ui_automation_nunit\\web_ui_automation_xunit\\ehuhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCA409F-A12D-4514-BF7A-D61CEA9BD1C4}|Web_UI_Automation_xUnit\\Web_UI_Automation_xUnit.csproj|solutionrelative:web_ui_automation_xunit\\ehuhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCA409F-A12D-4514-BF7A-D61CEA9BD1C4}|Web_UI_Automation_xUnit\\Web_UI_Automation_xUnit.csproj|c:\\users\\yurca\\downloads\\labc#2\\lab2\\web_ui_automation_nunit\\web_ui_automation_xunit\\webdrivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCA409F-A12D-4514-BF7A-D61CEA9BD1C4}|Web_UI_Automation_xUnit\\Web_UI_Automation_xUnit.csproj|solutionrelative:web_ui_automation_xunit\\webdrivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestHooks.cs",
+              "DocumentMoniker": "C:\\Users\\Yurca\\Downloads\\LabC#2\\Lab2\\Web_UI_Automation_NUnit\\Web_UI_Automation_xUnit\\Hooks\\TestHooks.cs",
+              "RelativeDocumentMoniker": "Web_UI_Automation_xUnit\\Hooks\\TestHooks.cs",
+              "ToolTip": "C:\\Users\\Yurca\\Downloads\\LabC#2\\Lab2\\Web_UI_Automation_NUnit\\Web_UI_Automation_xUnit\\Hooks\\TestHooks.cs",
+              "RelativeToolTip": "Web_UI_Automation_xUnit\\Hooks\\TestHooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T14:58:41.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EhuSteps.cs",
+              "DocumentMoniker": "C:\\Users\\Yurca\\Downloads\\LabC#2\\Lab2\\Web_UI_Automation_NUnit\\Web_UI_Automation_xUnit\\StepDefinitions\\EhuSteps.cs",
+              "RelativeDocumentMoniker": "Web_UI_Automation_xUnit\\StepDefinitions\\EhuSteps.cs",
+              "ToolTip": "C:\\Users\\Yurca\\Downloads\\LabC#2\\Lab2\\Web_UI_Automation_NUnit\\Web_UI_Automation_xUnit\\StepDefinitions\\EhuSteps.cs",
+              "RelativeToolTip": "Web_UI_Automation_xUnit\\StepDefinitions\\EhuSteps.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwB8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T14:55:58.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EhuNavigationAndSearch.feature",
+              "DocumentMoniker": "C:\\Users\\Yurca\\Downloads\\LabC#2\\Lab2\\Web_UI_Automation_NUnit\\Web_UI_Automation_xUnit\\Features\\EhuNavigationAndSearch.feature",
+              "RelativeDocumentMoniker": "Web_UI_Automation_xUnit\\Features\\EhuNavigationAndSearch.feature",
+              "ToolTip": "C:\\Users\\Yurca\\Downloads\\LabC#2\\Lab2\\Web_UI_Automation_NUnit\\Web_UI_Automation_xUnit\\Features\\EhuNavigationAndSearch.feature",
+              "RelativeToolTip": "Web_UI_Automation_xUnit\\Features\\EhuNavigationAndSearch.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-02T14:54:51.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web_UI_Automation_xUnit",
+              "DocumentMoniker": "C:\\Users\\Yurca\\Downloads\\LabC#2\\Lab2\\Web_UI_Automation_NUnit\\Web_UI_Automation_xUnit\\Web_UI_Automation_xUnit.csproj",
+              "RelativeDocumentMoniker": "Web_UI_Automation_xUnit\\Web_UI_Automation_xUnit.csproj",
+              "ToolTip": "C:\\Users\\Yurca\\Downloads\\LabC#2\\Lab2\\Web_UI_Automation_NUnit\\Web_UI_Automation_xUnit\\Web_UI_Automation_xUnit.csproj",
+              "RelativeToolTip": "Web_UI_Automation_xUnit\\Web_UI_Automation_xUnit.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-02T14:53:29.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EhuHomePage.cs",
+              "DocumentMoniker": "C:\\Users\\Yurca\\Downloads\\LabC#2\\Lab2\\Web_UI_Automation_NUnit\\Web_UI_Automation_xUnit\\EhuHomePage.cs",
+              "RelativeDocumentMoniker": "Web_UI_Automation_xUnit\\EhuHomePage.cs",
+              "ToolTip": "C:\\Users\\Yurca\\Downloads\\LabC#2\\Lab2\\Web_UI_Automation_NUnit\\Web_UI_Automation_xUnit\\EhuHomePage.cs",
+              "RelativeToolTip": "Web_UI_Automation_xUnit\\EhuHomePage.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T09:21:15.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebDriverManager.cs",
+              "DocumentMoniker": "C:\\Users\\Yurca\\Downloads\\LabC#2\\Lab2\\Web_UI_Automation_NUnit\\Web_UI_Automation_xUnit\\WebDriverManager.cs",
+              "RelativeDocumentMoniker": "Web_UI_Automation_xUnit\\WebDriverManager.cs",
+              "ToolTip": "C:\\Users\\Yurca\\Downloads\\LabC#2\\Lab2\\Web_UI_Automation_NUnit\\Web_UI_Automation_xUnit\\WebDriverManager.cs",
+              "RelativeToolTip": "Web_UI_Automation_xUnit\\WebDriverManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T09:20:10.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Yurca\\Downloads\\LabC#2\\Lab2\\Web_UI_Automation_NUnit\\Web_UI_Automation_NUnit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Web_UI_Automation_NUnit\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Yurca\\Downloads\\LabC#2\\Lab2\\Web_UI_Automation_NUnit\\Web_UI_Automation_NUnit\\UnitTest1.cs",
+              "RelativeToolTip": "Web_UI_Automation_NUnit\\UnitTest1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T08:10:04.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
